@@ -1,0 +1,16 @@
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\bin\Debug\RDP(2).exe.config
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\bin\Debug\RDP(2).exe
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\bin\Debug\RDP(2).pdb
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\bin\Debug\Interop.MSTSCLib.dll
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\bin\Debug\AxInterop.MSTSCLib.dll
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\obj\Debug\RDP(2).csprojResolveAssemblyReference.cache
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\obj\Debug\Interop.MSTSCLib.dll
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\obj\Debug\AxInterop.MSTSCLib.dll
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\obj\Debug\RDP(2).csproj.ResolveComReference.cache
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\obj\Debug\RDP_2_.Form1.resources
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\obj\Debug\RDP_2_.Properties.Resources.resources
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\obj\Debug\RDP(2).csproj.GenerateResource.Cache
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\obj\Debug\RDP(2).exe
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\obj\Debug\RDP(2).pdb
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\GitHub\songshi\C++\RDP(2)\RDP(2)\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll

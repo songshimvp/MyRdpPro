@@ -1,0 +1,29 @@
+﻿生成启动时间为 2015/9/22 11:07:24。
+     1>项目“C:\Users\songshi\Desktop\win32-rdesktop-source-注释版\winrdesktop.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt secure.c
+         secure.c
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Debug\winrdesktop.exe" /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Debug\winrdesktop.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug\winrdesktop.lib" /MACHINE:X86 /SAFESEH .\Debug\bitmap.obj
+         .\Debug\bsops.obj
+         .\Debug\cache.obj
+         .\Debug\channels.obj
+         .\Debug\iso.obj
+         .\Debug\licence.obj
+         .\Debug\mcs.obj
+         .\Debug\mppc.obj
+         .\Debug\orders.obj
+         .\Debug\pstcache.obj
+         .\Debug\rdp.obj
+         .\Debug\rdp5.obj
+         .\Debug\secure.obj
+         .\Debug\ssl_calls.obj
+         .\Debug\tcp.obj
+         .\Debug\uimain.obj
+         .\Debug\win32.obj
+         winrdesktop.vcxproj -> C:\Users\songshi\Desktop\win32-rdesktop-source-注释版\.\Debug\winrdesktop.exe
+     1>已完成生成项目“C:\Users\songshi\Desktop\win32-rdesktop-source-注释版\winrdesktop.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.29
